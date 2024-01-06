@@ -7,12 +7,12 @@ const Hero = () => {
         <div className="hero-title">
           <h1>contentful CMS</h1>
           <p>
-            Jelly sweet roll jelly beans biscuit pie macaroon chocolate donut.
-            Carrot cake caramels pie sweet apple pie tiramisu carrot cake.
-            Marzipan marshmallow croissant tootsie roll lollipop. Cupcake lemon
-            drops bear claw gummiest. Jelly bear claw gumma bears lollipop
-            cotton candy gumma bears chocolate bar cake cookie. Cupcake muffin
-            danish muffin cookie gummiest. Jelly beans tiramisu pudding.{' '}
+            Hi this is <h8>Ram Reddy</h8>, I am a Software Developer with 7+
+            years of experience in Java J2EE, Spring MVC, Spring Boot,
+            Microservices, JSP, CSS, and Up skilling myself recently ReactJS. I
+            am a fast learner and believe in team efforts. I am looking for new
+            opportunities to upgrade my skill set and contribute to the
+            organization.{' '}
           </p>
         </div>
         <div className="img-container">
